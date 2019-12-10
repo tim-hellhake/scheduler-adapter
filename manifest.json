@@ -3,7 +3,7 @@
   "id": "scheduler-adapter",
   "name": "Scheduler",
   "short_name": "Scheduler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Allows you to use a time schedule in your rules",
   "homepage_url": "https://github.com/tim-hellhake/scheduler-adapter#readme",
   "license": "MPL-2.0",

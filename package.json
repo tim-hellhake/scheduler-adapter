@@ -1,7 +1,7 @@
 {
   "name": "scheduler-adapter",
   "display_name": "Scheduler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Allows you to use a time schedule in your rules",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
