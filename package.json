@@ -249,7 +249,7 @@
     }
   },
   "dependencies": {
-    "luxon": "^1.21.3"
+    "luxon": "^1.28.1"
   },
   "devDependencies": {
     "@types/luxon": "^1.21.0",
